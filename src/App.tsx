@@ -25,7 +25,7 @@ function App() {
       </p>
 
       <Button variant='light'>
-      I agree to sell my privacy
+      I don't agree to sell my privacy
       </Button>
     </div>
   )
